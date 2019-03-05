@@ -1,2 +1,2 @@
 # Bandomasis puslapis
-Cia kuriamas bandomasis puslapis. Si paskyra priklauso studentui s175. sis puslapio kurimas Vilniaus universiteto ekonomikos ir verslo administravimo fakultete vykstancios. **"Duomenu analizes"** paskaitos metu
+Čia kuriamas bandomasis puslapis. Ši paskyra priklauso studentui s175. Šis puslapio kurimas vyksta Vilniaus universiteto Ekonomikos ir verslo administravimo fakultete, **"Duomenų analizės"** paskaitos metu.
